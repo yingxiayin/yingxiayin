@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Sun-Yun Temple</title>
-    <link>/post/</link>
+    <link>https://yingxiayin.github.io/post/</link>
     <description>Recent content in Posts on Sun-Yun Temple</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2020 Xiayin YING All Rights Reserved</copyright>
     <lastBuildDate>Thu, 20 Feb 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yingxiayin.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Rotal</title>
-      <link>/post/project/rotal/</link>
+      <link>https://yingxiayin.github.io/post/project/rotal/</link>
       <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/project/rotal/</guid>
+      <guid>https://yingxiayin.github.io/post/project/rotal/</guid>
       <description> 项目背景 </description>
     </item>
     
     <item>
       <title>ToSense</title>
-      <link>/post/project/tosense/</link>
+      <link>https://yingxiayin.github.io/post/project/tosense/</link>
       <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/project/tosense/</guid>
+      <guid>https://yingxiayin.github.io/post/project/tosense/</guid>
       <description>项目背景 随着人们生活质量、消费水平的提高，人们在进行物质消费的同时，对购物体验也提出了更高的要求。与此同时，购物环境也在不断优化。其中，商品展示方式作为购物环境中的重要因素，在最近二十年间不断变迁。八九十年代，商品展示仍然处于非常基础的阶段。小卖部里商品包装袋上的文字说明以及导购员的口头介绍，就是那个年代获取商品信息的渠道。进入二十世纪，购物环境升级，海报等图文说明日渐丰富。商场中随处可见图文并茂的广告牌，吸引着人们的眼球。而网购的兴起，更是带来全新的商品展示方式。各种网购平台成为人们线上了解商品的新渠道。而随着新零售浪潮来临，线下体验重新受到广泛关注，各种新零售体验店出现，带来了新的商品展示方式。各式各样的互动式电子屏幕，让人们能够全方位、个性化地了解一款产品。在商店内，我们经常能见到可交互的LED显示屏，通过一方方屏幕，用户能够对自己感兴趣的信息进行涉猎。可以看到，商品展示正朝着用户体验更为舒适自由和便捷的方向发展。
 另一方面，随着各种高科技的发展，AR技术，VR技术，全息投影也被应用于商品展示，以吸引客户眼球，提升购买率，成为新零售的新型营销手段。研究显示[1]，技术创新与体验结合，能拉近企业与消费者的距离。突破了传统简单的价格营销模式，吸引了更多消费者积极参与产品的制作过程，并且使得消费者在体验过程中能够触动内心情感，产生更强烈的购买意愿。高科技增强了商品展示的效果，将虚拟信息与商品信息进行融合，从而让人们获得更真实的线下体验。
 未来的新零售，还将继续以消费者的体验为核心，利用人工智能、大数据、虚拟现实等新技术，提升用户的线下购物体验，促进消费体验升级。而随着NLP、图像识别、AR/VR、生物识别、机器人等技术逐渐成熟，应用门槛越来越低，商品展示的形式又将经历新一轮的变革，更智能、更便捷、体验与服务更友好的展示方式，亟待出现。</description>
@@ -34,10 +34,10 @@
     
     <item>
       <title>KOI</title>
-      <link>/post/project/koi/</link>
+      <link>https://yingxiayin.github.io/post/project/koi/</link>
       <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/project/koi/</guid>
+      <guid>https://yingxiayin.github.io/post/project/koi/</guid>
       <description> 项目背景 </description>
     </item>
     
