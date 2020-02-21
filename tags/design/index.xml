@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2020 Xiayin YING All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 20 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://yingxiayin.github.io/tags/design/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Rotal</title>
-      <link>https://yingxiayin.github.io/post/project/rotal/</link>
-      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://yingxiayin.github.io/post/project/rotal/</guid>
-      <description> 项目背景 </description>
-    </item>
     
     <item>
       <title>ToSense</title>
@@ -60,12 +51,21 @@ Krishna（2012）在一篇综述文章中提出了整合的“感官营销概念
     </item>
     
     <item>
+      <title>Rotal</title>
+      <link>https://yingxiayin.github.io/post/project/rotal/</link>
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yingxiayin.github.io/post/project/rotal/</guid>
+      <description> 项目背景 </description>
+    </item>
+    
+    <item>
       <title>KOI</title>
       <link>https://yingxiayin.github.io/post/project/koi/</link>
-      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>https://yingxiayin.github.io/post/project/koi/</guid>
-      <description> 项目背景 </description>
+      <description></description>
     </item>
     
   </channel>

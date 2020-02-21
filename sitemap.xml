@@ -10,42 +10,7 @@
   </url>
   
   <url>
-    <loc>https://yingxiayin.github.io/categories/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yingxiayin.github.io/tags/design/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://yingxiayin.github.io/page/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yingxiayin.github.io/post/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yingxiayin.github.io/categories/project/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yingxiayin.github.io/post/project/rotal/</loc>
     <lastmod>2020-02-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -59,8 +24,36 @@
   </url>
   
   <url>
+    <loc>https://yingxiayin.github.io/categories/</loc>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://yingxiayin.github.io/tags/design/</loc>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://yingxiayin.github.io/post/</loc>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://yingxiayin.github.io/categories/project/</loc>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://yingxiayin.github.io/tags/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -73,8 +66,15 @@
   </url>
   
   <url>
+    <loc>https://yingxiayin.github.io/post/project/rotal/</loc>
+    <lastmod>2018-01-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://yingxiayin.github.io/post/project/koi/</loc>
-    <lastmod>2018-07-15T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
