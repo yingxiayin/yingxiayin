@@ -27,15 +27,6 @@
     </item>
     
     <item>
-      <title>TEDxZJU</title>
-      <link>https://yingxiayin.github.io/post/activity/tedxzju/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://yingxiayin.github.io/post/activity/tedxzju/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ToSense</title>
       <link>https://yingxiayin.github.io/post/project/tosense/</link>
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
@@ -72,15 +63,6 @@ Krishna（2012）在一篇综述文章中提出了整合的“感官营销概念
 信息展示 信息展示是至感展柜的主要功能。商品放入展柜并被识别后，对应的基本信息与产品故事会呈现在幻影成像膜上。
 商品信息获取 用户可以将商品放入展柜，待展柜顶部的商品识别摄像头识别到商品后，后台调用对应的商品信息，显示屏将画面投射到幻影成像膜上，从使用者的视角看去，信息画面与实体商品仿佛融为一体。用户可以从画面中获知产品的故事、成分分析与外观细节、价格与实时销售情况、评论与购买指南等信息，还可以通过点击、滑动、拖拽、旋转、缩放等手势对画面进行信息选择、页面切换等操作，根据自身兴趣点获取更多信息。
 商品营销展示 至感展柜也可以被作为展示陈列柜使用。用户浏览完商品信息后，可以直接将商品留在展柜上。当展柜感应到商品放置其中但3分钟内没有检测到手势操作时，幻影成像膜上的画面会开始自动轮播。商家也可以直接将需要特别展示的商品放入展柜中，以吸引往来顾客的注意力。</description>
-    </item>
-    
-    <item>
-      <title>欧莱雅校园义卖</title>
-      <link>https://yingxiayin.github.io/post/activity/%E6%AC%A7%E8%8E%B1%E9%9B%85%E6%A0%A1%E5%9B%AD%E4%B9%89%E5%8D%96/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://yingxiayin.github.io/post/activity/%E6%AC%A7%E8%8E%B1%E9%9B%85%E6%A0%A1%E5%9B%AD%E4%B9%89%E5%8D%96/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -160,6 +142,24 @@ Krishna（2012）在一篇综述文章中提出了整合的“感官营销概念
 改进上，我觉得可以考虑信息存储和发布异步，本身设计上就是需要给对应的音频添加更多的信息，后续再去增添发布完全可行。
 短视频如此火爆，或许Vlog才是发布内容的最佳载体。
  </description>
+    </item>
+    
+    <item>
+      <title>TEDxZJU</title>
+      <link>https://yingxiayin.github.io/post/activity/tedxzju/</link>
+      <pubDate>Sat, 26 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yingxiayin.github.io/post/activity/tedxzju/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>欧莱雅校园义卖</title>
+      <link>https://yingxiayin.github.io/post/activity/%E6%AC%A7%E8%8E%B1%E9%9B%85%E6%A0%A1%E5%9B%AD%E4%B9%89%E5%8D%96/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yingxiayin.github.io/post/activity/%E6%AC%A7%E8%8E%B1%E9%9B%85%E6%A0%A1%E5%9B%AD%E4%B9%89%E5%8D%96/</guid>
+      <description></description>
     </item>
     
     <item>
