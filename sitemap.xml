@@ -24,43 +24,8 @@
   </url>
   
   <url>
-    <loc>https://yingxiayin.github.io/categories/activity/</loc>
-    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://yingxiayin.github.io/categories/</loc>
-    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yingxiayin.github.io/post/</loc>
-    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yingxiayin.github.io/tags/</loc>
-    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yingxiayin.github.io/tags/work/</loc>
-    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yingxiayin.github.io/post/activity/%E8%AF%BE%E5%90%A6%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
-    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -73,7 +38,21 @@
   </url>
   
   <url>
+    <loc>https://yingxiayin.github.io/post/</loc>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://yingxiayin.github.io/categories/project/</loc>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://yingxiayin.github.io/tags/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -94,29 +73,8 @@
   </url>
   
   <url>
-    <loc>https://yingxiayin.github.io/post/activity/%E5%A4%B8%E5%A4%B8%E6%88%91%E5%90%A7%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
-    <lastmod>2019-03-27T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://yingxiayin.github.io/post/project/trippo/</loc>
     <lastmod>2018-12-27T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yingxiayin.github.io/post/activity/tedxzju/</loc>
-    <lastmod>2018-05-26T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://yingxiayin.github.io/post/activity/%E6%AC%A7%E8%8E%B1%E9%9B%85%E6%A0%A1%E5%9B%AD%E4%B9%89%E5%8D%96/</loc>
-    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
