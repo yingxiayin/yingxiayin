@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Sun-Yun Temple</title>
+    <title>Posts on Hi! I&#39;m Xiayin</title>
     <link>https://yingxiayin.github.io/post/</link>
-    <description>Recent content in Posts on Sun-Yun Temple</description>
+    <description>Recent content in Posts on Hi! I&#39;m Xiayin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copyright © 2020 Xiayin YING All Rights Reserved</copyright>
+    <copyright>Copyright © 2021 Xiayin YING All Rights Reserved</copyright>
     <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://yingxiayin.github.io/post/index.xml" rel="self" type="application/rss+xml" />
