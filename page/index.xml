@@ -1,25 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Hi! I&#39;m Xiayin</title>
     <link>https://yingxiayin.github.io/page/</link>
     <description>Recent content in Pages on Hi! I&#39;m Xiayin</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>cn</language>
     <copyright>Copyright © 2021 Xiayin YING All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 07 Sep 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://yingxiayin.github.io/page/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 07 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yingxiayin.github.io/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://yingxiayin.github.io/page/about/</link>
       <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://yingxiayin.github.io/page/about/</guid>
-      <description>Hi，我是应夏寅
-希望了解更多：
+      <description>Xiayin
+ 希望了解更多：
  访问我的博客查看更多文章以及查看我的简历。 关注我的领英了解工作经历。  </description>
     </item>
     

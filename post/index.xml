@@ -1,17 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Hi! I&#39;m Xiayin</title>
     <link>https://yingxiayin.github.io/post/</link>
     <description>Recent content in Posts on Hi! I&#39;m Xiayin</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>cn</language>
     <copyright>Copyright © 2021 Xiayin YING All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://yingxiayin.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://yingxiayin.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ToSense</title>
       <link>https://yingxiayin.github.io/post/project/tosense/</link>
@@ -57,7 +53,7 @@ Krishna（2012）在一篇综述文章中提出了整合的“感官营销概念
       <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://yingxiayin.github.io/post/project/linju/</guid>
-      <description> 项目背景 以“社区生活”为切入口，本项目希望挖掘“社区生活”语境中可能存在的需求。初步观察得出，一个中国常见社区内一般具有业主、物业、商户、公共设施这四个部分。那么，我们希望这四者之间形成新的链接与故事。
+      <description>项目背景 以“社区生活”为切入口，本项目希望挖掘“社区生活”语境中可能存在的需求。初步观察得出，一个中国常见社区内一般具有业主、物业、商户、公共设施这四个部分。那么，我们希望这四者之间形成新的链接与故事。
 可行性分析 我们从用户、技术、市场三个层面对“中国社区产品”的可行性展开分析：
 用户层面：当下许多小区住户地理距离虽相近，但相比于胡同院子，小区住户并没有丰富的交流机会；其次，社区住户结构复杂化，社交难度大；社区范围内线下活动稀缺，存在发起难、传播难、组织难的问题。
 技术层面：中国社区发展的同时和社区管理形式依旧薄弱，物业居委会的管理手段和服务能力较弱，业主的信息录入和整理几乎空白。同时相应产品不重视用户体验，缺乏积极维护和高效的运营手段。
@@ -99,9 +95,9 @@ Krishna（2012）在一篇综述文章中提出了整合的“感官营销概念
       <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://yingxiayin.github.io/post/project/trippo/</guid>
-      <description> 完整报告参见这里，密码:96le。
+      <description>完整报告参见这里，密码:96le。
 项目背景 传统旅行团失宠，个性化旅行需求增长。
- “中国⼈已经从观光游进⼊了休闲游阶段。经验日益丰富的中国游客要求有深度、有个性且能体验当地⼈生活的旅游，标准化旅游团已无法满⾜他们不断增长的需求。” ——*分析师莉迪娅*·林
+ “中国⼈已经从观光游进⼊了休闲游阶段。经验日益丰富的中国游客要求有深度、有个性且能体验当地⼈生活的旅游，标准化旅游团已无法满⾜他们不断增长的需求。” ——分析师莉迪娅·林
  年轻⼈爱旅行，且⾃由行居多。
  年轻人最喜欢通过旅行的方式放松。在旅⾏中非常重视开阔眼界。并且通常选择结伴⾃由行或者独立自由⾏行，旅行团占⽐较小。
  ⻘年⼈热衷探险和⽂化旅行。

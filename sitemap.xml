@@ -1,110 +1,80 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://yingxiayin.github.io/page/about/</loc>
     <lastmod>2021-09-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yingxiayin.github.io/</loc>
     <lastmod>2021-09-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yingxiayin.github.io/page/</loc>
     <lastmod>2021-09-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yingxiayin.github.io/categories/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yingxiayin.github.io/tags/design/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yingxiayin.github.io/post/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yingxiayin.github.io/categories/project/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yingxiayin.github.io/tags/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yingxiayin.github.io/post/project/tosense/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yingxiayin.github.io/categories/activity/</loc>
     <lastmod>2019-06-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yingxiayin.github.io/post/project/linju/</loc>
     <lastmod>2019-06-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yingxiayin.github.io/post/activity/%E6%85%88%E5%96%84%E6%B4%BB%E5%8A%A8/</loc>
     <lastmod>2019-06-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yingxiayin.github.io/post/project/trippo/</loc>
     <lastmod>2018-12-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yingxiayin.github.io/post/project/rotal/</loc>
     <lastmod>2018-01-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yingxiayin.github.io/post/project/koi/</loc>
     <lastmod>2017-11-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  
 </urlset>
